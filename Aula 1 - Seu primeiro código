@@ -1,1 +1,3 @@
+Quantos dias você já viveu?
 
+alert('Eu ja vivi' 25*365 'dias');
